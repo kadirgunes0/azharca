@@ -1,0 +1,13 @@
+*.cpp linguist-detectable=false
+*.swift linguist-detectable=false
+*.kotlin linguist-detectable=false
+*.html linguist-detectable=false
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
+*.c linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+*.kt linguist-vendored
+*.kts linguist-vendored
+*.cc linguist-vendored
